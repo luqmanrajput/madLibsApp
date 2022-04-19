@@ -51,5 +51,6 @@ console.log(originalStory);
 
   console.log(originalStory);
   document.write(originalStory);
+  console.log("Good Bye");
 };
 
